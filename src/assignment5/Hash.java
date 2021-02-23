@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * A Hash (byte array) wrapper class.
  * 
- * @author Ally Rogers - rogersal@grinnell.edu
+ * @author Ally
  * @author Charun Upara - uparacha@grinnell.edu
  * @author Milo Reynolds - reynolds4@grinnell.edu
  */
