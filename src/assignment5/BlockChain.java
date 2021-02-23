@@ -6,7 +6,7 @@ import java.security.NoSuchAlgorithmException;
 /**
  * BlockChain for tracking transactions between Alice and Bob
  * 
- * @author Ally Rogers - rogersal@grinnell.edu
+ * @author Ally
  * @author Charun Upara - uparacha@grinnell.edu
  * @author Milo Reynolds - reynolds4@grinnell.edu
  */
