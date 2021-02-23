@@ -7,7 +7,7 @@ import java.nio.ByteBuffer;
 /**
  * The Block type for use in BlockChain
  * 
- * @author Ally Rogers - rogersal@grinnell.edu
+ * @author Ally
  * @author Charun Upara - uparacha@grinnell.edu
  * @author Milo Reynolds - reynolds4@grinnell.edu
  */
