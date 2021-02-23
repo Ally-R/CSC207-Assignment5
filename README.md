@@ -2,7 +2,7 @@
 
 ## Group Members
 * Charun Upara
-* Ally Rogers
+* Ally R
 * Milo Reynolds
 
 
